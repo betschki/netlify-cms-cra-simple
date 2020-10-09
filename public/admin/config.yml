@@ -55,3 +55,10 @@ collections:
               - widget: string
                 name: type
                 label: 'Mime Type'
+  - label: "About"
+    name: "about"
+    folder: "pages/about"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Pragraph", name: "paragraph", widget: "string"}
