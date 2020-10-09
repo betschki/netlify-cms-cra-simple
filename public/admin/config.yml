@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: talves/netlify-cms-cra-simple
+  repo: betschki/netlify-cms-cra-simple
 
 media_folder: "public/images"
 public_folder: "images"
